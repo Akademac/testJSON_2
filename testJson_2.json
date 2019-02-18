@@ -23,63 +23,63 @@
   {
   "name": "Roland F-20",
    "description": "Digital piano",
-    "img": "Best_sell/piano.jpg",
+    "img": "Images/Best_sell/piano.jpg",
     "price": "1299",
     "stock": "20"
   },
   {
   "name": "Yamaha TRBX305",
    "description": "5-String Electric Bass",
-    "img": "Best_sell/bass.jpg",
+    "img": "Images/Best_sell/bass.jpg",
     "price": "399",
     "stock": "60"
   },
   {
   "name": "Bowers & Wilkins P5",
    "description": "Wireless Headphones - Black",
-    "img": "Best_sell/headphones.jpg",
+    "img": "Images/Best_sell/headphones.jpg",
     "price": "299",
     "stock": "30"
   },
   {
   "name": "Fiddlerman",
    "description": "Concert Violin Outfit",
-    "img": "Best_sell/violin.jpg",
+    "img": "Images/Best_sell/violin.jpg",
     "price": "399",
     "stock": "50"
   },
   {
   "name": "Audioengine",
    "description": "A2+ Power Speakers (Pair)",
-    "img": "Best_sell/speaker.jpg",
+    "img": "Images/Best_sell/speaker.jpg",
     "price": "249",
     "stock": "37"
   },
   {
   "name": "Gibson SG Faded 2018",
    "description": "Electric Guitar with Mahogany body",
-    "img": "Best_sell/gibson.jpg",
+    "img": "Images/Best_sell/gibson.jpg",
     "price": "829",
     "stock": "20"
   },
   {
   "name": "ROLAND SYSTEM-8",
    "description": "Super plug-out synth",
-    "img": "Best_sell/roland.jpg",
+    "img": "Images/Best_sell/roland.jpg",
     "price": "1499",
     "stock": "45"
   },
   {
   "name": "Fender Newporter Player",
    "description": "Acoustic Guitar",
-    "img": "Best_sell/acoustic_fender.jpg",
+    "img": "Images/Best_sell/acoustic_fender.jpg",
     "price": "489",
     "stock": "43"
   },
   {
   "name": "Monoprice",
    "description": "Classic Guitar Stand",
-    "img": "Best_sell/guitar_stand.jpg",
+    "img": "Images/Best_sell/guitar_stand.jpg",
     "price": "12.99",
     "stock": "150"
   }
