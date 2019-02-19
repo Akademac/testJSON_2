@@ -82,5 +82,17 @@
     "img": "Images/Best_sell/guitar_stand.jpg",
     "price": "12.99",
     "stock": "150"
+  },
+  {
+  "name": "Banner_1",
+  "img": "Images/banner_1.jpg"
+  },
+  {
+  "name": "Banner_2",
+  "img": "Images/banner_2.jpg"
+  },
+  {
+  "name": "Banner_3",
+  "img": "Images/banner_3.jpg"
   }
 ]
