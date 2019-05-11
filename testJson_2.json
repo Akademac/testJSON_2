@@ -94,5 +94,137 @@
   {
   "name": "Banner_3",
   "img": "Images/banner_3.jpg"
+  },
+  {
+   "location": "Peru",
+    "price": "1200$",
+    "img": [
+      "Images/Specials/peru_1",
+      "Images/Specials/peru_2",
+      "Images/Specials/peru_3",
+      "Images/Specials/peru_4",
+      "Images/Specials/peru_5"
+    ]
+  },
+  {
+   "location": "Cambodia",
+    "price": "1500$",
+    "img": [
+      "Images/Specials/cambodia_1",
+      "Images/Specials/cambodia_2",
+      "Images/Specials/cambodia_3",
+      "Images/Specials/cambodia_4",
+      "Images/Specials/cambodia_5"
+    ]  
+  },
+  {
+   "location": "Tibet",
+    "price": "1300$",
+    "img": [
+      "Images/Specials/tibet_1",
+      "Images/Specials/tibet_2",
+      "Images/Specials/tibet_3",
+      "Images/Specials/tibet_4",
+      "Images/Specials/tibet_5"
+    ]    
+  },
+  {
+   "location": "Turkmenistan",
+    "price": "1000$",
+    "img": [
+      "Images/Specials/turkmenistan_1",
+      "Images/Specials/turkmenistan_2",
+      "Images/Specials/turkmenistan_3",
+      "Images/Specials/turkmenistan_4",
+      "Images/Specials/turkmenistan_5"
+    ]      
+  },
+  {
+   "location": "Argentina",
+    "price": "1800$",
+    "img": [
+      "Images/Specials/argentina_1",
+      "Images/Specials/argentina_2",
+      "Images/Specials/argentina_3",
+      "Images/Specials/argentina_4",
+      "Images/Specials/argentina_5"
+    ]      
+  },
+  {
+   "location": "Australia",
+    "price": "1900$",
+    "img": [
+      "Images/Specials/australia_1",
+      "Images/Specials/australia_2",
+      "Images/Specials/australia_3",
+      "Images/Specials/australia_4",
+      "Images/Specials/australia_5"
+    ]       
+  },
+  {
+   "location": "New Zealand",
+    "price": "2000$",
+    "img": [
+      "Images/Specials/new-zealand_1",
+      "Images/Specials/new-zealand_2",
+      "Images/Specials/new-zealand_3",
+      "Images/Specials/new-zealand_4",
+      "Images/Specials/new-zealand_5"
+    ]      
+  },
+  {
+   "location": "Madagascar",
+    "price": "1700$",
+    "img": [
+      "Images/Specials/madagaskar_1",
+      "Images/Specials/madagaskar_2",
+      "Images/Specials/madagaskar_3",
+      "Images/Specials/madagaskar_4",
+      "Images/Specials/madagaskar_5"
+    ]        
+  },
+  {
+   "location": "Easter Island",
+    "price": "2200$",
+    "img": [
+      "Images/Specials/easter-island_1",
+      "Images/Specials/easter-island_2",
+      "Images/Specials/easter-island_3",
+      "Images/Specials/easter-island_4",
+      "Images/Specials/easter-island_5"
+    ]          
+  },
+  {
+   "location": "Greenland",
+    "price": "2200$",
+    "img": [
+      "Images/Specials/greenland_1",
+      "Images/Specials/greenland_2",
+      "Images/Specials/greenland_3",
+      "Images/Specials/greenland_4",
+      "Images/Specials/greenland_5"
+    ]           
+  },
+  {
+   "location": "Mexico",
+    "price": "2200$",
+    "img": [
+      "Images/Specials/mexico_1",
+      "Images/Specials/mexico_2",
+      "Images/Specials/mexico_3",
+      "Images/Specials/mexico_4",
+      "Images/Specials/mexico_5"
+    ]     
+  },
+  {
+   "location": "Congo",
+    "price": "2200$",
+    "img": [
+      "Images/Specials/congo_1",
+      "Images/Specials/congo_2",
+      "Images/Specials/congo_3",
+      "Images/Specials/congo_4",
+      "Images/Specials/congo_5"
+    ]       
   }
 ]
