@@ -99,6 +99,7 @@
    "state": "Peru",
    "location": "(Machu Picchu, Cusco, Titicaca, Andes, Pacific, Lima)",
     "price": "1200$",
+    "days": "18 days",
     "img": [
       "Images/Specials/peru_1",
       "Images/Specials/peru_2",
@@ -111,6 +112,7 @@
    "state": "Cambodia",
    "location": "(Phra Nakhon, Angkor Wat, nature, buddhism, wilderness)",
     "price": "1500$",
+    "days": "18 days",
     "img": [
       "Images/Specials/cambodia_1",
       "Images/Specials/cambodia_2",
@@ -123,6 +125,7 @@
    "state": "Tibet",
    "location": "(Nature, Maunt Everest, wilderness, buddhism)",
     "price": "1300$",
+    "days": "18 days",
     "img": [
       "Images/Specials/tibet_1",
       "Images/Specials/tibet_2",
@@ -135,6 +138,7 @@
    "state": "Turkmenistan",
    "location": "(Ashabad, Kone-Urgench, hell doors, Kow-ata)",
     "price": "1000$",
+    "days": "18 days",
     "img": [
       "Images/Specials/turkmenistan_1",
       "Images/Specials/turkmenistan_2",
@@ -147,6 +151,7 @@
    "state": "Argentina",
    "location": "(Mount Fitch Roy, Glacier Argentina, Patagonia, Ushuaiai)",
     "price": "1800$",
+    "days": "18 days",
     "img": [
       "Images/Specials/argentina_1",
       "Images/Specials/argentina_2",
@@ -159,6 +164,7 @@
    "state": "Australia",
    "location": "(Ayers Rock, Sydney, wildeners, kangaroos)",
     "price": "1900$",
+    "days": "18 days",
     "img": [
       "Images/Specials/australia_1",
       "Images/Specials/australia_2",
@@ -171,6 +177,7 @@
    "state": "New Zealand",
    "location": "(volcano, landscapes, Wellington, Pacific Shore)",
     "price": "2000$",
+    "days": "18 days",
     "img": [
       "Images/Specials/new-zealand_1",
       "Images/Specials/new-zealand_2",
@@ -183,6 +190,7 @@
    "state": "Madagascar", 
    "location": "(nature, wildeners, landscapes)",
     "price": "1700$",
+    "days": "18 days",
     "img": [
       "Images/Specials/madagaskar_1",
       "Images/Specials/madagaskar_2",
@@ -195,6 +203,7 @@
    "state": "Easter Island",
    "location": "(Moai, Hanga Roa)",
     "price": "2200$",
+    "days": "18 days",
     "img": [
       "Images/Specials/easter-island_1",
       "Images/Specials/easter-island_2",
@@ -207,6 +216,7 @@
    "state": "Greenland",
    "location": "(glaciers, Tasiilaq, northern lights)",
     "price": "2200$",
+    "days": "18 days",
     "img": [
       "Images/Specials/greenland_1",
       "Images/Specials/greenland_2",
@@ -219,6 +229,7 @@
    "state": "Mexico",
    "location": "(Cancun, Zihuatanejo, Mayan Piramids)",
     "price": "2200$",
+    "days": "18 days",
     "img": [
       "Images/Specials/mexico_1",
       "Images/Specials/mexico_2",
@@ -231,6 +242,7 @@
    "state": "Congo",
    "location": "(wildeners, Jungle, Congo River, Kinshasa)",
     "price": "2200$",
+    "days": "18 days",
     "img": [
       "Images/Specials/congo_1",
       "Images/Specials/congo_2",
