@@ -96,7 +96,8 @@
   "img": "Images/banner_3.jpg"
   },
   {
-   "location": "Peru",
+   "state": "Peru",
+   "location": "(Machu Picchu, Cusco, Titicaca, Andes, Pacific, Lima)",
     "price": "1200$",
     "img": [
       "Images/Specials/peru_1",
@@ -107,7 +108,8 @@
     ]
   },
   {
-   "location": "Cambodia",
+   "state": "Cambodia",
+   "location": "(Phra Nakhon, Angkor Wat, nature, buddhism, wilderness)",
     "price": "1500$",
     "img": [
       "Images/Specials/cambodia_1",
@@ -118,7 +120,8 @@
     ]  
   },
   {
-   "location": "Tibet",
+   "state": "Tibet",
+   "location": "(Nature, Maunt Everest, wilderness, buddhism)",
     "price": "1300$",
     "img": [
       "Images/Specials/tibet_1",
@@ -129,7 +132,8 @@
     ]    
   },
   {
-   "location": "Turkmenistan",
+   "state": "Turkmenistan",
+   "location": "(Ashabad, Kone-Urgench, hell doors, Kow-ata)",
     "price": "1000$",
     "img": [
       "Images/Specials/turkmenistan_1",
@@ -140,7 +144,8 @@
     ]      
   },
   {
-   "location": "Argentina",
+   "state": "Argentina",
+   "location": "(Mount Fitch Roy, Glacier Argentina, Patagonia, Ushuaiai)",
     "price": "1800$",
     "img": [
       "Images/Specials/argentina_1",
@@ -151,7 +156,8 @@
     ]      
   },
   {
-   "location": "Australia",
+   "state": "Australia",
+   "location": "(Ayers Rock, Sydney, wildeners, kangaroos)",
     "price": "1900$",
     "img": [
       "Images/Specials/australia_1",
@@ -162,7 +168,8 @@
     ]       
   },
   {
-   "location": "New Zealand",
+   "state": "New Zealand",
+   "location": "(volcano, landscapes, Wellington, Pacific Shore)",
     "price": "2000$",
     "img": [
       "Images/Specials/new-zealand_1",
@@ -173,7 +180,8 @@
     ]      
   },
   {
-   "location": "Madagascar",
+   "state": "Madagascar", 
+   "location": "(nature, wildeners, landscapes)",
     "price": "1700$",
     "img": [
       "Images/Specials/madagaskar_1",
@@ -184,7 +192,8 @@
     ]        
   },
   {
-   "location": "Easter Island",
+   "state": "Easter Island",
+   "location": "(Moai, Hanga Roa)",
     "price": "2200$",
     "img": [
       "Images/Specials/easter-island_1",
@@ -195,7 +204,8 @@
     ]          
   },
   {
-   "location": "Greenland",
+   "state": "Greenland",
+   "location": "(glaciers, Tasiilaq, northern lights)",
     "price": "2200$",
     "img": [
       "Images/Specials/greenland_1",
@@ -206,7 +216,8 @@
     ]           
   },
   {
-   "location": "Mexico",
+   "state": "Mexico",
+   "location": "(Cancun, Zihuatanejo, Mayan Piramids)",
     "price": "2200$",
     "img": [
       "Images/Specials/mexico_1",
@@ -217,7 +228,8 @@
     ]     
   },
   {
-   "location": "Congo",
+   "state": "Congo",
+   "location": "(wildeners, Jungle, Congo River, Kinshasa)",
     "price": "2200$",
     "img": [
       "Images/Specials/congo_1",
