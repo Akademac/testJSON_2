@@ -97,7 +97,7 @@
   },
   {
    "state": "Peru",
-   "location": "(Machu Picchu, Cusco, Titicaca, Andes, Pacific, Lima)",
+   "location": "(Machu Picchu, Cusco, Titicaca, Lima)",
     "price": "1200$",
     "days": "18 days",
     "desc": "Republic of Peru is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains vertically extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. Peruvian territory was home to several ancient cultures. Ranging from the Norte Chico civilization in the 32nd century BC, the oldest civilization in the Americas and one of the five cradles of civilization, to the Inca Empire, the largest state in pre-Columbian America, the territory now including Peru has one of the longest histories of civilization of any country, tracing its heritage back to the 4th millennia BCE.",
@@ -111,7 +111,7 @@
   },
   {
    "state": "Cambodia",
-   "location": "(Phra Nakhon, Angkor Wat, nature, buddhism, wilderness)",
+   "location": "(Phra Nakhon, Angkor Wat, buddhism)",
     "price": "1500$",
     "days": "18 days",
     "desc": "Kingdom of Cambodia is a country located in the southern portion of the Indochina peninsula in Southeast Asia. It is 181,035 square kilometres (69,898 square miles) in area, bordered by Thailand to the northwest, Laos to the northeast, Vietnam to the east and the Gulf of Thailand to the southwest. The sovereign state of Cambodia has a population of over 16 million. The official religion is Theravada Buddhism, practised by approximately 95 percent of the population. The country's minority groups include Vietnamese, Chinese, Chams and 30 hill tribes. The capital and largest city is Phnom Penh, the political, economic and cultural centre of Cambodia. The kingdom is an elective constitutional monarchy with a monarch, currently Norodom Sihamoni, chosen by the Royal Throne Council as head of state. The head of government is the Prime Minister, currently Hun Sen, the longest serving non-royal leader in Southeast Asia, ruling Cambodia since 1985.",
@@ -125,7 +125,7 @@
   },
   {
    "state": "Tibet",
-   "location": "(Nature, Maunt Everest, wilderness, buddhism)",
+   "location": "(Nature, Maunt Everest, buddhism)",
     "price": "1300$",
     "days": "18 days",
     "desc": "Tibet is a historical region covering much of the Tibetan Plateau in Inner Asia. It is the traditional homeland of the Tibetan people as well as some other ethnic groups such as Monpa, Tamang, Qiang, Sherpa, and Lhoba peoples and is now also inhabited by considerable numbers of Han Chinese and Hui people. Tibet is the highest region on Earth, with an average elevation of 5,000 metres. The highest elevation in Tibet is Mount Everest, Earth's highest mountain, rising 8,848m above sea level. The Tibetan Empire emerged in the 7th century, but with the fall of the empire the region soon divided into a variety of territories. The bulk of western and central Tibet was often at least nominally unified under a series of Tibetan governments in Lhasa, Shigatse, or nearby locations; these governments were at various times under Mongol and Chinese overlordship.",
@@ -139,7 +139,7 @@
   },
   {
    "state": "Turkmenistan",
-   "location": "(Ashabad, Kone-Urgench, hell doors, Kow-ata)",
+   "location": "(Ashabad, Kone-Urgench, hell doors)",
     "price": "1000$",
     "days": "18 days",
     "desc": "Republic of Turkmenistan is a country in Central Asia, bordered by Kazakhstan to the northwest, Uzbekistan to the north and east, Afghanistan to the southeast, Iran to the south and southwest, and the Caspian Sea to the west. Ashgabat is the capital and largest city. The population of the country is 5.6 million, the lowest of the Central Asian republics and one of the most sparsely populated in Asia. Turkmenistan has been at the crossroads of civilizations for centuries. In medieval times, Merv was one of the great cities of the Islamic world and an important stop on the Silk Road, a caravan route used for trade with China until the mid-15th century. Annexed by the Russian Empire in 1881, Turkmenistan later figured prominently in the anti-Bolshevik movement in Central Asia. In 1925, Turkmenistan became a constituent republic of the Soviet Union, Turkmen Soviet Socialist Republic (Turkmen SSR); it became independent upon the dissolution of the Soviet Union in 1991.",
@@ -153,7 +153,7 @@
   },
   {
    "state": "Argentina",
-   "location": "(Mount Fitch Roy, Glacier Argentina, Patagonia, Ushuaiai)",
+   "location": "(Mount Fitch Roy, Glacier, Patagonia)",
     "price": "1800$",
     "days": "18 days",
     "desc": "Argentina is a country located mostly in the southern half of South America. Sharing the bulk of the Southern Cone with Chile to the west, the country is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. With a mainland area of 2,780,400 km2 Argentina is the eighth-largest country in the world, the fourth largest in the Americas, and the largest Spanish-speaking nation. The sovereign state is subdivided into twenty-three provinces and one autonomous city (ciudad autónoma), Buenos Aires, which is the federal capital of the nation as decided by Congress. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over part of Antarctica, the Falkland Islands and South Georgia and the South Sandwich Islands.",
@@ -167,7 +167,7 @@
   },
   {
    "state": "Australia",
-   "location": "(Ayers Rock, Sydney, wildeners, kangaroos)",
+   "location": "(Ayers Rock, Sydney, wildeners)",
     "price": "1900$",
     "days": "18 days",
     "desc": "Australia is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area. The neighbouring countries are Papua New Guinea, Indonesia and East Timor to the north, the Solomon Islands and Vanuatu to the north-east, and New Zealand to the south-east. The population of 25 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia's capital is Canberra, and its largest city is Sydney. The country's other major metropolitan areas are Melbourne, Brisbane, Perth and Adelaide.",
@@ -181,7 +181,7 @@
   },
   {
    "state": "New Zealand",
-   "location": "(volcano, landscapes, Wellington, Pacific Shore)",
+   "location": "(volcano, Wellington, Pacific Shore)",
     "price": "2000$",
     "days": "18 days",
     "desc": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses—the North Island, and the South Island (Te Waipounamu)—and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia across the Tasman Sea and roughly 1,000 kilometres south of the Pacific island areas of New Caledonia, Fiji, and Tonga. Because of its remoteness, it was one of the last lands to be settled by humans. During its long period of isolation, New Zealand developed a distinct biodiversity of animal, fungal, and plant life. The country's varied topography and its sharp mountain peaks, such as the Southern Alps, owe much to the tectonic uplift of land and volcanic eruptions. New Zealand's capital city is Wellington, while its most populous city is Auckland.",
@@ -251,7 +251,7 @@
   },
   {
    "state": "Congo",
-   "location": "(wildeners, Jungle, Congo River, Kinshasa)",
+   "location": "(Jungle, Congo River, Kinshasa)",
     "price": "2200$",
     "days": "18 days",
     "desc": "The Democratic Republic of the Congo is a country located in Central Africa. It is sometimes anachronistically referred to by its former name of Zaire, which was its official name between 1971 and 1997. It is, by area, the largest country in Sub-Saharan Africa, the second-largest in all of Africa (after Algeria), and the 11th-largest in the world. With a population of over 78 million, the Democratic Republic of the Congo is the most populated officially Francophone country, the fourth-most-populated country in Africa, and the 16th-most-populated country in the world. Currently, eastern DR Congo is the scene of ongoing military conflict in Kivu, since 2015.",
